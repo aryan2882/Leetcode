@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/aryan2882/Leetcode/tree/master/0090-subsets-ii) |
 | [0525-contiguous-array](https://github.com/aryan2882/Leetcode/tree/master/0525-contiguous-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/aryan2882/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan2882/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/aryan2882/Leetcode/tree/master/0525-contiguous-array) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/aryan2882/Leetcode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/aryan2882/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
