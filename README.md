@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/aryan2882/Leetcode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/aryan2882/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/aryan2882/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0525-contiguous-array](https://github.com/aryan2882/Leetcode/tree/master/0525-contiguous-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/aryan2882/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan2882/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/aryan2882/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan2882/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/aryan2882/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/aryan2882/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/aryan2882/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |
