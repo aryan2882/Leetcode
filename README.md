@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/aryan2882/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0525-contiguous-array](https://github.com/aryan2882/Leetcode/tree/master/0525-contiguous-array) |
 ## Prefix Sum
 |  |
@@ -64,4 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/aryan2882/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/aryan2882/Leetcode/tree/master/0264-ugly-number-ii) |
+## Math
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/aryan2882/Leetcode/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/aryan2882/Leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
