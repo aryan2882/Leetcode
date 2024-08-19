@@ -71,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/aryan2882/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aryan2882/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aryan2882/Leetcode/tree/master/0322-coin-change) |
+| [0650-2-keys-keyboard](https://github.com/aryan2882/Leetcode/tree/master/0650-2-keys-keyboard) |
 ## Math
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/aryan2882/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/aryan2882/Leetcode/tree/master/0650-2-keys-keyboard) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
