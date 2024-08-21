@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aryan2882/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aryan2882/Leetcode/tree/master/0322-coin-change) |
 | [0650-2-keys-keyboard](https://github.com/aryan2882/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/aryan2882/Leetcode/tree/master/0664-strange-printer) |
 ## Math
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/aryan2882/Leetcode/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [0664-strange-printer](https://github.com/aryan2882/Leetcode/tree/master/0664-strange-printer) |
 <!---LeetCode Topics End-->
