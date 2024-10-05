@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aryan2882/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/aryan2882/Leetcode/tree/master/0143-reorder-list) |
+| [0567-permutation-in-string](https://github.com/aryan2882/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan2882/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan2882/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/aryan2882/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0525-contiguous-array](https://github.com/aryan2882/Leetcode/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/aryan2882/Leetcode/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan2882/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
@@ -95,9 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/aryan2882/Leetcode/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/aryan2882/Leetcode/tree/master/0664-strange-printer) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aryan2882/Leetcode/tree/master/0155-min-stack) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/aryan2882/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
