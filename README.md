@@ -113,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/aryan2882/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aryan2882/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
