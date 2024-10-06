@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aryan2882/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aryan2882/Leetcode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/aryan2882/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/aryan2882/Leetcode/tree/master/0735-asteroid-collision) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aryan2882/Leetcode/tree/master/0525-contiguous-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/aryan2882/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan2882/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0735-asteroid-collision](https://github.com/aryan2882/Leetcode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/aryan2882/Leetcode/tree/master/0890-lemonade-change) |
 | [1923-sentence-similarity-iii](https://github.com/aryan2882/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/aryan2882/Leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/aryan2882/Leetcode/tree/master/0175-combine-two-tables) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/aryan2882/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
