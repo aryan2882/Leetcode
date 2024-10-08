@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/aryan2882/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/aryan2882/Leetcode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/aryan2882/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0239-sliding-window-maximum](https://github.com/aryan2882/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/aryan2882/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aryan2882/Leetcode/tree/master/0322-coin-change) |
 | [0503-next-greater-element-ii](https://github.com/aryan2882/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aryan2882/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/aryan2882/Leetcode/tree/master/0264-ugly-number-ii) |
 ## Breadth-First Search
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aryan2882/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/aryan2882/Leetcode/tree/master/0567-permutation-in-string) |
 ## Monotonic Stack
 |  |
@@ -146,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aryan2882/Leetcode/tree/master/0735-asteroid-collision) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aryan2882/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aryan2882/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
