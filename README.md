@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/aryan2882/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/aryan2882/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/aryan2882/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/aryan2882/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aryan2882/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Recursion
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/aryan2882/Leetcode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/aryan2882/Leetcode/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/aryan2882/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/aryan2882/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1923-sentence-similarity-iii](https://github.com/aryan2882/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/aryan2882/Leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan2882/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/aryan2882/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/aryan2882/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/aryan2882/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/aryan2882/Leetcode/tree/master/1002-maximum-width-ramp) |
 ## Database
 |  |
 | ------- |
