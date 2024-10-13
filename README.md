@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/aryan2882/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/aryan2882/Leetcode/tree/master/0525-contiguous-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/aryan2882/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aryan2882/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan2882/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/aryan2882/Leetcode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/aryan2882/Leetcode/tree/master/0890-lemonade-change) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aryan2882/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan2882/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aryan2882/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan2882/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/aryan2882/Leetcode/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/aryan2882/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aryan2882/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/aryan2882/Leetcode/tree/master/0890-lemonade-change) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aryan2882/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aryan2882/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/aryan2882/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0525-contiguous-array](https://github.com/aryan2882/Leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/aryan2882/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aryan2882/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan2882/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aryan2882/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/aryan2882/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aryan2882/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aryan2882/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Breadth-First Search
 |  |
@@ -141,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aryan2882/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/aryan2882/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aryan2882/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Monotonic Stack
 |  |
 | ------- |
