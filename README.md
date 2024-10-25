@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aryan2882/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/aryan2882/Leetcode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aryan2882/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1765-merge-in-between-linked-lists](https://github.com/aryan2882/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 ## Two Pointers
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aryan2882/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aryan2882/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/aryan2882/Leetcode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aryan2882/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/aryan2882/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan2882/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1923-sentence-similarity-iii](https://github.com/aryan2882/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/aryan2882/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/aryan2882/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0525-contiguous-array](https://github.com/aryan2882/Leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/aryan2882/Leetcode/tree/master/0567-permutation-in-string) |
