@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aryan2882/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/aryan2882/Leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan2882/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aryan2882/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/aryan2882/Leetcode/tree/master/0322-coin-change) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aryan2882/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## String
 |  |
 | ------- |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aryan2882/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Graph
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aryan2882/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
