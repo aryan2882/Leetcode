@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aryan2882/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1923-sentence-similarity-iii](https://github.com/aryan2882/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/aryan2882/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aryan2882/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aryan2882/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/aryan2882/Leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan2882/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -147,11 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/aryan2882/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aryan2882/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aryan2882/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aryan2882/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aryan2882/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/aryan2882/Leetcode/tree/master/0322-coin-change) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aryan2882/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aryan2882/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## String
 |  |
@@ -230,5 +233,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aryan2882/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aryan2882/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Matrix
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aryan2882/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aryan2882/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
