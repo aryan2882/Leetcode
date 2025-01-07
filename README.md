@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/aryan2882/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/aryan2882/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aryan2882/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1524-string-matching-in-an-array](https://github.com/aryan2882/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1923-sentence-similarity-iii](https://github.com/aryan2882/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/aryan2882/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2164-two-best-non-overlapping-events](https://github.com/aryan2882/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/aryan2882/Leetcode/tree/master/0664-strange-printer) |
 | [1197-parsing-a-boolean-expression](https://github.com/aryan2882/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aryan2882/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1524-string-matching-in-an-array](https://github.com/aryan2882/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/aryan2882/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/aryan2882/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aryan2882/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan2882/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/aryan2882/Leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
