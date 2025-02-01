@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aryan2882/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/aryan2882/Leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan2882/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3429-special-array-i](https://github.com/aryan2882/Leetcode/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aryan2882/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search
 |  |
