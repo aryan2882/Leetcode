@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/aryan2882/Leetcode/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/aryan2882/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aryan2882/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aryan2882/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## String
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan2882/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/aryan2882/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aryan2882/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
@@ -260,10 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan2882/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/aryan2882/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan2882/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/aryan2882/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
